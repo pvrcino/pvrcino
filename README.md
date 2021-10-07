@@ -1,16 +1,18 @@
-### Hi there 👋
+```js
+import Desenvolvedor from 'pvrcino';
 
-<!--
-**pvrcino/pvrcino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class SobreMim extends Desenvolvedor {
+  nome     = 'Arthur Purcino';
+  area    = 'Engenharia da Computação';
+  universidade  = 'Universidade Federal do Espirito Santo';
+  local = 'Vitória';
+  working = 'Art Publicidade e Comércio Eletrônico'
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Socail extends Media {
+  twitter  = '@pvrcino';
+  instagram = '@pvrcino';
+  discord = 'pvrcino#5267';
+  email = 'arthur.purttino@gmail.com'
+}
+```
