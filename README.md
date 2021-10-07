@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
   working = 'Art Publicidade e Comércio Eletrônico'
 }
 
-class Socail extends Media {
+class Social extends Media {
   twitter  = '@pvrcino';
   instagram = '@pvrcino';
   discord = 'pvrcino#5267';
