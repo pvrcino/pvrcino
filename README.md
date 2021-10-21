@@ -17,4 +17,4 @@ class Social extends Media {
   email     = 'arthur.purttino@gmail.com'
 }
 ```
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pvrcino/pvrcino/blob/output/github-contribution-grid-snake.svg)
