@@ -7,7 +7,7 @@ class SobreMim extends Desenvolvedor {
   area          = 'Engenharia da Computação';
   universidade  = 'Universidade Federal do Espirito Santo';
   local         = 'Vitória';
-  working       = 'Art Publicidade e Comércio Eletrônico'
+  working       = 'Art Tecnologia'
 }
 
 class Social extends Media {
