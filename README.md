@@ -13,8 +13,8 @@ class SobreMim extends Desenvolvedor {
 class Social extends Media {
   twitter   = '@pvrcino';
   instagram = '@pvrcino';
-  discord   = 'pvrcino#5267';
-  email     = 'arthur.purttino@gmail.com'
+  discord   = 'pvrcino#1458';
+  email     = 'arthur@pvrcino.codes'
 }
 ```
   ![Snake animation](https://github.com/pvrcino/pvrcino/blob/output/github-contribution-grid-snake.svg)
