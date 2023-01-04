@@ -14,7 +14,7 @@ class Social extends Media {
   twitter   = '@pvrcino';
   instagram = '@pvrcino';
   discord   = 'pvrcino#1458';
-  email     = 'arthur@pvrcino.codes'
+  email     = 'arthur@pvrcino.com.br'
 }
 ```
   ![Snake animation](https://github.com/pvrcino/pvrcino/blob/output/github-contribution-grid-snake.svg)
